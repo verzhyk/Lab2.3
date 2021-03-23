@@ -1,0 +1,7 @@
+C:\Users\goss_rivero\source\repos\vladVector3D\vladVector3D\bin\Debug\vladVector3D.exe.config
+C:\Users\goss_rivero\source\repos\vladVector3D\vladVector3D\bin\Debug\vladVector3D.exe
+C:\Users\goss_rivero\source\repos\vladVector3D\vladVector3D\bin\Debug\vladVector3D.pdb
+C:\Users\goss_rivero\source\repos\vladVector3D\vladVector3D\obj\Debug\vladVector3D.csprojAssemblyReference.cache
+C:\Users\goss_rivero\source\repos\vladVector3D\vladVector3D\obj\Debug\vladVector3D.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\vladVector3D\vladVector3D\obj\Debug\vladVector3D.exe
+C:\Users\goss_rivero\source\repos\vladVector3D\vladVector3D\obj\Debug\vladVector3D.pdb
